@@ -26,6 +26,9 @@ Initial velocity (m/s): 20
 - How to combine physics formulas with Java code
 - Using arrays to store simulation data
 - Console input/output and formatting with `printf`
+  
+## Timeline
+- Project created: 2025-10-02
 
 ## Future Improvements
 - Use 0.1s steps for more precision
